@@ -1,214 +1,254 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,5,15,25&height=180&section=header&text=Mustakim%20Nur%20Salin&fontSize=48&fontAlignY=38&fontColor=00F0FF&desc=Full-Stack%20Architect%20%7C%20UI/UX%20Designer%20%7C%20Open%20Source%20Creator&descAlignY=70&descAlign=50&animation=scaleIn&stroke=00F0FF&strokeWidth=2" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=200&section=header&text=Mustakim%20Nur%20Salin&fontSize=44&fontColor=F0F6FC&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Open%20Source%20Creator&descSize=16&descAlignY=60&descColor=8B949E" alt="Mustakim Nur Salin" width="100%" />
 </div>
 
-<div align="center" style="background: rgba(0, 240, 255, 0.03); padding: 15px; border-radius: 12px; border: 1px solid rgba(0, 240, 255, 0.2); box-shadow: 0 0 25px rgba(0, 240, 255, 0.15);">
+<div align="center">
   <a href="https://mustakim.iam.bd/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%26+Software+Engineer;UI%2FUX+Designer+%26+Creative+Problem+Solver;Building+Scalable%2C+High-Performance+Web+Apps;Turning+Complex+Ideas+into+Seamless+Digital+Realities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer+%26+Software+Engineer;UI%2FUX+Designer+%26+Creative+Problem+Solver;Building+Scalable%2C+High-Performance+Web+Apps;Turning+Complex+Ideas+into+Seamless+Digital+Realities" alt="Typing animation" />
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/mustakim-error"><img src="https://komarev.com/ghpvc/?username=mustakim-error&label=TOTAL+PROFILE+VIEWS&color=00f0ff&style=for-the-badge&logo=github&logoColor=ffffff" alt="Profile Views" /></a>
-  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/🌐_Portfolio-050B14?style=for-the-badge&logo=About.me&logoColor=00F0FF&color=050B14&link=https://mustakim.iam.bd/" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/👔_LinkedIn-050B14?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=050B14" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/🐦_Twitter-050B14?style=for-the-badge&logo=twitter&logoColor=00F0FF&color=050B14" alt="Twitter" /></a>
-  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/📧_Email-050B14?style=for-the-badge&logo=gmail&logoColor=00F0FF&color=050B14" alt="Email" /></a>
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/intmustakim"><img src="https://komarev.com/ghpvc/?username=intmustakim&label=Profile%20views&color=0D1117&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge" alt="Twitter" /></a>
+  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge" alt="Email" /></a>
+</p>
 
 ---
 
-### 🚀 `<About_Me />`
+## 👋 About me
 
-<table width="100%" style="border-radius: 16px; border: 1px solid rgba(0, 240, 255, 0.2); box-shadow: 0 0 20px rgba(0, 240, 255, 0.08); background: linear-gradient(135deg, rgba(0,240,255,0.02) 0%, rgba(255,255,255,0.01) 100%);">
-  <tr>
-    <td width="60%" valign="top" style="padding: 20px;">
-      <p>👋 Hello there! I'm <b>Mustakim Nur Salin</b>, a passionate Full-Stack Software Engineer, UI/UX Designer, and Creative Developer based in Dhaka, Bangladesh 🇧🇩.</p>
-      <p>I specialize in building robust, lightning-fast, and user-centric web applications from scratch. My core philosophy is rooted in writing clean, maintainable architecture while delivering immersive digital experiences that captivate users.</p>
-      <ul>
-        <li>🔭 Currently working on advanced full-stack cloud ecosystems & modern SaaS platforms.</li>
-        <li>🌱 Exploring deep architecture patterns, AI integration, and high-performance UI systems.</li>
-        <li>⚡ Fun fact: I turn complex technical challenges into elegant, minimalist code solutions.</li>
-        <li>📫 Reach out anytime at <a href="mailto:mustakimnursalin@gmail.com"><b>mustakimnursalin@gmail.com</b></a></li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" style="padding: 20px;">
-      ```json
-      {
-        "engineer": "Mustakim Nur Salin",
-        "alias": "RealCodeMind",
-        "location": "Dhaka, Bangladesh",
-        "status": "Coding the future 💻",
-        "focus": ["Scalability", "Clean Code", "UI/UX"],
-        "coffee_per_day": "☕☕☕"
-      }
-      ```
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Hi, I'm **Mustakim Nur Salin**, a full-stack software engineer and UI/UX designer from Dhaka, Bangladesh 🇧🇩.
+
+I build fast, accessible and user-centric web apps from scratch. I care about clean, maintainable architecture and interfaces that feel effortless to use.
+
+- 🔭 Building full-stack cloud products and modern SaaS platforms
+- 🌱 Exploring architecture patterns, AI integration and high-performance UI systems
+- ⚡ I turn complex problems into small, elegant solutions
+- 📫 Reach me at **[mustakimnursalin@gmail.com](mailto:mustakimnursalin@gmail.com)**
+
+</td>
+<td width="38%" valign="top">
+
+```json
+{
+  "name": "Mustakim Nur Salin",
+  "alias": "RealCodeMind",
+  "location": "Dhaka, Bangladesh",
+  "building": "DIU Sync",
+  "focus": ["Scalability", "Clean code", "UI/UX"],
+  "coffee_per_day": "☕☕☕"
+}
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠️ Technical Arsenal & Ecosystems
+## 🚀 Featured project
 
-<p align="center"><em>Cutting-edge tools, languages, and frameworks I leverage to engineer elite-tier digital products.</em></p>
+<table>
+<tr>
+<td valign="top">
 
-#### 🌐 Languages & Core
-<div align="left" style="background: rgba(0,240,255,0.02); padding: 12px; border-radius: 12px; border: 1px solid rgba(0,240,255,0.1);">
-  <img src="https://img.shields.io/badge/JavaScript-(ES6+)-050B14?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=050B14" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-050B14?style=for-the-badge&logo=typescript&logoColor=3178C6&color=050B14" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C++-050B14?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&color=050B14" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-050B14?style=for-the-badge&logo=html5&logoColor=E34F26&color=050B14" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-050B14?style=for-the-badge&logo=css3&logoColor=1572B6&color=050B14" alt="CSS3" />
-</div>
+### [DIU Sync](https://diusync.com)
 
-#### ⚛️ Frontend Architecture
-<div align="left" style="background: rgba(0,240,255,0.02); padding: 12px; border-radius: 12px; border: 1px solid rgba(0,240,255,0.1);">
-  <img src="https://img.shields.io/badge/React.js-050B14?style=for-the-badge&logo=react&logoColor=61DAFB&color=050B14" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-050B14?style=for-the-badge&logo=next.js&logoColor=ffffff&color=050B14" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-050B14?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&color=050B14" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-050B14?style=for-the-badge&logo=redux&logoColor=764ABC&color=050B14" alt="Redux" />
-  <img src="https://img.shields.io/badge/Bootstrap-050B14?style=for-the-badge&logo=bootstrap&logoColor=7952B3&color=050B14" alt="Bootstrap" />
-</div>
+A class routine and campus-utilities portal for the students of **Daffodil International University**. Find any department, section or teacher routine in seconds.
 
-#### ⚙️ Backend & Databases
-<div align="left" style="background: rgba(0,240,255,0.02); padding: 12px; border-radius: 12px; border: 1px solid rgba(0,240,255,0.1);">
-  <img src="https://img.shields.io/badge/Node.js-050B14?style=for-the-badge&logo=node.js&logoColor=339933&color=050B14" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-050B14?style=for-the-badge&logo=express&logoColor=ffffff&color=050B14" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-050B14?style=for-the-badge&logo=mongodb&logoColor=47A248&color=050B14" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-050B14?style=for-the-badge&logo=firebase&logoColor=FFCA28&color=050B14" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_APIs-050B14?style=for-the-badge&logo=postman&logoColor=FF5722&color=050B14" alt="REST API" />
-</div>
+**Class & exam routines** · **Question bank** · **Hand notes** · **Faculty directory** · **CGPA calculator** · **Transport schedules** · **Empty classroom finder**
 
-#### ☁️ Cloud, DevOps & Tools
-<div align="left" style="background: rgba(0,240,255,0.02); padding: 12px; border-radius: 12px; border: 1px solid rgba(0,240,255,0.1);">
-  <img src="https://img.shields.io/badge/Git-050B14?style=for-the-badge&logo=git&logoColor=F05033&color=050B14" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=ffffff&color=050B14" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-050B14?style=for-the-badge&logo=docker&logoColor=2496ED&color=050B14" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-050B14?style=for-the-badge&logo=vercel&logoColor=ffffff&color=050B14" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-050B14?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=050B14" alt="Netlify" />
-  <img src="https://img.shields.io/badge/VS_Code-050B14?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=050B14" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-050B14?style=for-the-badge&logo=figma&logoColor=F24E1E&color=050B14" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-050B14?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF&color=050B14" alt="Photoshop" />
-</div>
+`Next.js` `TypeScript` `Tailwind CSS` `Firebase` `PWA`
 
----
+[**Visit diusync.com →**](https://diusync.com)
 
-### 📊 GitHub Activity & Real-Time Analytics
-
-<div align="center" style="background: rgba(0,240,255,0.02); padding: 15px; border-radius: 16px; border: 1px solid rgba(0,240,255,0.2); box-shadow: 0 0 20px rgba(0, 240, 255, 0.08);">
-  <table>
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakim-error&theme=tokyonight" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&bg_color=0d1117&text_color=c0caf5" alt="GitHub Streak" /></td>
-    </tr>
-  </table>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustakim-error&theme=tokyonight" alt="Top Languages" />
-  </p>
-</div>
-
-<br/>
-
-<div align="center" style="background: rgba(0,240,255,0.02); padding: 15px; border-radius: 16px; border: 1px solid rgba(0,240,255,0.2);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakim-error&theme=tokyonight&hide_border=true&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-### 🏆 GitHub Trophies & Milestones
-
-<div align="center" style="background: rgba(0,240,255,0.02); padding: 15px; border-radius: 16px; border: 1px solid rgba(0,240,255,0.2);">
-  <img src="https://github-profile-trophies.vercel.app/?username=mustakim-error&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🧠 Core Engineering & Architecture
-
-<table width="100%" align="center" style="border-radius: 16px; border: 1px solid rgba(0, 240, 255, 0.2); background: rgba(0, 240, 255, 0.02);">
-  <tr>
-    <td width="33%" align="center" style="padding: 20px;">
-      <b>⚡ Frontend Engineering</b><br/>
-      <sub>React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit</sub>
-    </td>
-    <td width="33%" align="center" style="padding: 20px;">
-      <b>⚙️ Backend & APIs</b><br/>
-      <sub>Node.js, Express.js, RESTful APIs, Microservices</sub>
-    </td>
-    <td width="33%" align="center" style="padding: 20px;">
-      <b>🗄️ Database & DevOps</b><br/>
-      <sub>MongoDB, Firebase, Docker, Git, Vercel, Netlify</sub>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-### 📌 Professional Milestones & Highlights
+## 🛠️ Tech stack
 
-- 💼 **Full-Stack Mastery:** Architecting robust, high-performance web platforms focusing on extreme speed and scalability.
-- 🎨 **UI/UX Craftsmanship:** Designing clean, accessible, and human-centric interfaces with seamless user journeys.
-- 🚀 **Open Source & Innovation:** Actively building and deploying modern developer tools, templates, and web applications.
-- 📈 **Problem Solving:** Translating complex business logic and requirements into clean, production-ready code architectures.
+**Languages**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,cpp,html,css&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,cpp,html,css&theme=light">
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css&theme=light" alt="Languages" />
+  </picture>
+</p>
+
+**Frontend**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap&theme=light">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap&theme=light" alt="Frontend" />
+  </picture>
+</p>
+
+**Backend & databases**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=light">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=light" alt="Backend and databases" />
+  </picture>
+</p>
+
+**DevOps, tools & design**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,photoshop&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,photoshop&theme=light">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,photoshop&theme=light" alt="DevOps, tools and design" />
+  </picture>
+</p>
 
 ---
 
-### 🎯 Current Focus & Engineering Roadmap
+## 🧠 What I do
 
-> *Synchronized live with my personal professional milestones & growth tracker.*
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-- 🚀 **Mastering Distributed Systems:** Deep diving into scalable microservice backends, message brokers, and high-load architecture patterns using Next.js & Node.js.
-- 🎨 **Next-Gen Design Systems:** Crafting fluid, accessible, and high-performance UI components with Tailwind CSS & Motion design principles.
-- 🐳 **DevOps Automation:** Advancing containerized deployments with Docker, Kubernetes pipelines, and edge cloud runtimes.
-- 💡 **Open Source Contribution:** Building impactful, developer-first tools to empower the global developer ecosystem.
+**⚡ Frontend engineering**
 
----
+<sub>React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit</sub>
 
-### 💡 Software Engineering Philosophy
+</td>
+<td width="33%" valign="top" align="center">
 
-<div align="center" style="background: rgba(0, 240, 255, 0.03); padding: 20px; border-radius: 16px; border: 1px solid rgba(0, 240, 255, 0.2);">
-  <blockquote align="center">
-    <h3 style="color: #00F0FF;">"Good code is its own best documentation. Great code transforms complex human ideas into frictionless digital experiences."</h3>
-    <p>I build software with uncompromising focus on speed, scalability, accessibility, and pixel-perfect precision.</p>
-  </blockquote>
-</div>
+**⚙️ Backend & APIs**
 
----
+<sub>Node.js, Express.js, REST APIs, microservices</sub>
 
-### 🌐 Let's Connect & Build Together
+</td>
+<td width="33%" valign="top" align="center">
 
-<div align="center" style="background: rgba(0,240,255,0.02); padding: 20px; border-radius: 16px; border: 1px solid rgba(0,240,255,0.2);">
-  <p>Have an exciting idea, project, or want to collaborate? My inbox is always open!</p>
+**🗄️ Database & DevOps**
 
-  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/Portfolio-050B14?style=for-the-badge&logo=google-chrome&logoColor=00F0FF&color=050B14" /></a>
-  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/LinkedIn-050B14?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=050B14" /></a>
-  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/Twitter-050B14?style=for-the-badge&logo=twitter&logoColor=00F0FF&color=050B14" /></a>
-  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/Email-050B14?style=for-the-badge&logo=gmail&logoColor=00F0FF&color=050B14" /></a>
-</div>
+<sub>MongoDB, Firebase, Docker, Git, Vercel, Netlify</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ☕ Support My Open-Source Journey
+## 🎯 Currently focused on
 
-<div align="center" style="background: rgba(0,240,255,0.02); padding: 20px; border-radius: 16px; border: 1px solid rgba(0,240,255,0.2);">
-  <p>If you like my work or find my repositories useful, consider supporting my ongoing open-source projects! 🚀</p>
+- 🚀 **Distributed systems:** scalable backends, message brokers and high-load patterns with Next.js and Node.js
+- 🎨 **Design systems:** fluid, accessible, high-performance UI components with Tailwind CSS and motion design
+- 🐳 **DevOps automation:** containerized deployments with Docker, Kubernetes pipelines and edge runtimes
+- 💡 **Open source:** developer-first tools that help the wider community
 
-  <a href="https://mustakim.iam.bd/donate">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-050B14?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00&color=050B14" alt="Support via Donate" />
-  </a>
-</div>
+---
 
-<br/>
+## 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intmustakim&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intmustakim&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intmustakim&theme=github" alt="GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=intmustakim&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=intmustakim&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
+    <img src="https://streak-stats.demolab.com?user=intmustakim&theme=default&hide_border=true" alt="GitHub streak" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intmustakim&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intmustakim&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intmustakim&theme=github" alt="Top languages by repos" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intmustakim&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intmustakim&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intmustakim&theme=github" alt="Most used languages" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intmustakim&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intmustakim&theme=github-light&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=intmustakim&theme=github-light&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  </picture>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=intmustakim&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=intmustakim&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12">
+    <img src="https://github-profile-trophy.vercel.app/?username=intmustakim&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+  </picture>
+</p>
+
+---
+
+## 💡 Philosophy
+
+<blockquote align="center">
+
+**"Good code is its own best documentation. Great code turns complex human ideas into frictionless digital experiences."**
+
+I build software with a focus on speed, scalability, accessibility and pixel-perfect precision.
+
+</blockquote>
+
+---
+
+## 🌐 Let's connect
+
+<p align="center">
+  Have an idea, a project, or want to collaborate? My inbox is always open.
+</p>
+
+<p align="center">
+  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge" alt="Twitter" /></a>
+  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge" alt="Email" /></a>
+</p>
+
+---
+
+## ☕ Support my open-source work
+
+<p align="center">
+  If my projects helped you, consider supporting what I build next. 🚀
+</p>
+
+<p align="center">
+  <a href="https://mustakim.iam.bd/donate"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0D1117?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" alt="Buy me a coffee" /></a>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,10,20,35&height=100&section=footer&stroke=00F0FF&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:0D1117&height=110&section=footer" alt="" width="100%" />
 </div>
 
-<div align="center">
-  <sub><i>Crafted with ❤️ and elite precision by Mustakim Nur Salin | "RealCodeMind - Bringing ideas to life"</i></sub>
-</div>
+<p align="center">
+  <sub><i>Crafted with ❤️ by Mustakim Nur Salin · "RealCodeMind – bringing ideas to life"</i></sub>
+</p>
